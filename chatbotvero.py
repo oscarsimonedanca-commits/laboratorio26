@@ -25,9 +25,9 @@ st.markdown(
 
 st.header("Il tuo assistente di diritto costituzionale")
 
-st.image("RAG classe/Chatbot.webp", width=300)
+st.image("Chatbot.webp", width=300)
 
-documento = "RAG classe/Costituzione_italiana.pdf"
+documento = "Costituzione_italiana.pdf"
 
 openai_api_key=st.secrets["OPENAI_API_KEY"]
 
