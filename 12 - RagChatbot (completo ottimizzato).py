@@ -33,9 +33,9 @@ st.markdown(
 
 st.header("Assistenza online")
 
-st.image("REAL CHATBOT/Chatbot.webp", width=500)
+st.image("Chatbot.webp", width=500)
 
-documento = "REAL CHATBOT/Costituzione_italiana.pdf"
+documento = "Costituzione_italiana.pdf"
 
 # Estrazione del contenuto e spezzettamento
 if documento is not None:
